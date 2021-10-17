@@ -1,5 +1,3 @@
 # stopwatch
 
-### Access here : [https://tauzxd.github.io/stopwatch/]
-
-### Using pure HTML and JS
+### Using HTML/EJS and Node/express + JS pure
